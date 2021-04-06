@@ -1,0 +1,3 @@
+com\ensta\librarymanager\exception\ServletException.class
+com\ensta\librarymanager\servlet\LivreDeleteServlet.class
+com\ensta\librarymanager\servlet\LivreDetailsServlet.class

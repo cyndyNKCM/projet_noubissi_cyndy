@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ensta.AppTest" time="0.068" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\kouop\Downloads\Fichiers fournis\Projet2\target\test-classes;C:\Users\kouop\Downloads\Fichiers fournis\Projet2\target\classes;C:\Users\kouop\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\kouop\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\kouop\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\kouop\.m2\repository\javax\servlet\jsp\javax.servlet.jsp-api\2.3.1\javax.servlet.jsp-api-2.3.1.jar;C:\Users\kouop\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar;C:\Users\kouop\.m2\repository\com\h2database\h2\1.4.197\h2-1.4.197.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="user.country.format" value="TN"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\kouop\AppData\Local\Temp\surefire1609569263969928243\surefirebooter7399720431288893065.jar C:\Users\kouop\AppData\Local\Temp\surefire1609569263969928243 2021-04-04T22-49-59_474-jvmRun1 surefire7537612675989128771tmp surefire_05543956864527567482tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\kouop\Downloads\Fichiers fournis\Projet2\target\test-classes;C:\Users\kouop\Downloads\Fichiers fournis\Projet2\target\classes;C:\Users\kouop\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\kouop\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\kouop\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\kouop\.m2\repository\javax\servlet\jsp\javax.servlet.jsp-api\2.3.1\javax.servlet.jsp-api-2.3.1.jar;C:\Users\kouop\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar;C:\Users\kouop\.m2\repository\com\h2database\h2\1.4.197\h2-1.4.197.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\kouop"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre"/>
+    <property name="basedir" value="C:\Users\kouop\Downloads\Fichiers fournis\Projet2"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\kouop\AppData\Local\Temp\surefire1609569263969928243\surefirebooter7399720431288893065.jar"/>
+    <property name="sun.boot.class.path" value="C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\resources.jar;C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\rt.jar;C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\sunrsasign.jar;C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\jsse.jar;C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\jce.jar;C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\charsets.jar;C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\jfr.jar;C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0-262-b10"/>
+    <property name="user.name" value="kouop"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\kouop\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\kouop\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2020.3.3"/>
+    <property name="java.version" value="1.8.0-262"/>
+    <property name="user.dir" value="C:\Users\kouop\Downloads\Fichiers fournis\Projet2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Users\kouop\Desktop\app\oracle\product\10.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\kouop\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\kouop\AppData\Local\Programs\Python\Python39\;C:\Users\kouop\AppData\Local\Microsoft\WindowsApps;;C:\Users\kouop\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kouop\AppData\Roaming\npm;C:\Users\kouop\AppData\Local\Yarn\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="OpenLogic-OpenJDK"/>
+    <property name="java.vm.version" value="25.71-b10"/>
+    <property name="java.ext.dirs" value="C:\Users\kouop\Downloads\openlogic-openjdk-8u262-b10-win-64\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="ensta.AppTest" time="0.001"/>
+</testsuite>
